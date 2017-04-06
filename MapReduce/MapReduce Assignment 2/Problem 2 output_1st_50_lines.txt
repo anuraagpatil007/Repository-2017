@@ -1,0 +1,50 @@
+J. Wisehart 	 {'Supporting': 1, 'National': 1, 'Grid': 1, 'Teachers': 1, 'Learning': 1, 'Through': 1, 'The': 1}
+Larry L. Kinney 	 {'control': 1, 'Group': 1, 'microprogrammed': 1, 'Strategy': 1, 'detection': 1, 'Intrainverted': 1, 'Probing': 1, 'Evaluation': 1, 'Linear': 1, 'units': 1, 'Relating': 1, 'Chips': 1, 'method': 1, 'Cyclic': 1, 'Shift': 1, 'Large': 1, 'concurrent': 1, 'Behavior': 1, 'Feedback': 1, 'Testing': 1, 'Number': 1, 'Registers': 1, 'error': 1}
+Gianfranco Bilardi 	 {'FatTrees': 1, 'Functions': 1, 'For': 1, 'Locality': 1, 'Temporal': 1, 'Memory': 1, 'Hierarchies': 1, 'CREWPRAM': 1, 'Portability': 1, 'Monotone': 1, 'BSP': 1, 'Broadcast': 1, 'across': 1, 'versus': 1, 'Lower': 1, 'LogP': 1, 'Bounds': 1, 'Time': 1, 'Associative': 1, 'Operations': 1, 'Characterization': 1, 'Computation': 1, 'Its': 1}
+Joseph C. Culberson 	 {'Convex': 1, 'Binary': 1, 'Search': 1, 'Extended': 1, 'Orthogonal': 1, 'Covering': 1, 'Simple': 1, 'Abstract': 1, 'Uncertainty': 1, 'Effect': 1, 'Trees': 1, 'Searching': 1, 'Minimum': 1, 'Orthogonally': 1, 'Updates': 1, 'Number': 1, 'The': 1, 'Polygons': 1, 'Polygon': 1}
+James Schoening 	 {'Lifelong': 1, 'Learners': 1, 'Quality': 1, 'Creating': 1, 'Assurance': 1}
+Marcello Restelli 	 {'Milan': 1, 'Fun2Mas': 1, 'The': 1, 'Team': 1, 'Robocup': 1}
+R. W. Zmud 	 {'Control': 1, 'Enhancements': 1, 'Two': 1, 'System': 1, 'Computer': 1, 'Pricing': 1, 'Flexible': 1, 'Allocating': 1, 'Resources': 1}
+Anshuman Chandra 	 {'Partitioning': 1, 'Resource': 1, 'Compression': 2, 'Scan': 1, 'LowPower': 1, 'PinCount': 1, 'Testing': 2, 'SystemonaChip': 1, 'Combining': 1, 'Test': 3, 'Based': 1, 'Data': 2, 'Reduced': 1}
+María Carmen Alonso 	 {'populations': 1, 'variables': 1, 'random': 2, 'value': 1, 'sampling': 1, 'Estimating': 1, 'stratified': 1, 'expected': 1, 'fuzzy': 1, 'finite': 1}
+Emily H. Moore 	 {'Dihedral': 1, 'Looking': 1, 'Groups': 1, 'Sets': 1, 'Images': 1, 'Difference': 1}
+Mathew Weaver 	 {'Superimposed': 1, 'Application': 1, 'Bundles': 1, 'Captivity': 1, 'Information': 1}
+José Cristóbal Riquelme Santos 	 {'via': 1, 'Selection': 1, 'Evolutionary': 1, 'Algorithm': 1, 'Rules': 1, 'Efficient': 1, 'Evolutivo': 1, 'Feature': 1, 'Numeric': 2, 'Discovering': 1, 'M\xc3\xa9todo': 1, 'Inducci\xc3\xb3n': 1, 'Oblicuas': 1, 'Clasificaci\xc3\xb3n': 1, 'Mediante': 1, 'Attributes': 1, 'Reglas': 1, 'SOAP': 1, 'Association': 1, 'Algoritmo': 1}
+Reija Autio 	 {'toolbox': 1, 'CGHPlotter': 1, 'MATLAB': 1, 'analysis': 1, 'CGHdata': 1}
+F. Azuaje 	 {'evolving': 1, 'computational': 1, 'strategy': 1, 'game': 1, 'evolutionary': 1, 'cooperation': 1, 'approach': 1}
+Yoshihiro Ueda 	 {'planar': 1, 'multiframe': 1, 'coding': 1, 'Lowbitrate': 1, 'maps': 1, 'video': 1, 'using': 1, 'representation': 1}
+Peter E. Hart 	 {'Executing': 1, 'Plans': 1, 'Generalized': 1, 'Learning': 1, 'Robot': 1}
+João Marcelo V. de Oliveira 	 {'Classification': 1, 'Directional': 1, 'New': 1, 'Image': 1, 'Fingerprint': 1, 'using': 1, 'Paradigm': 1}
+Anca I. D. Bucur 	 {'Maximal': 1, 'Multicluster': 1, 'Utilization': 1, 'CoAllocation': 1, 'Systems': 1, 'The': 1, 'Processor': 1}
+Chung-Kwong Yuen 	 {'Testing': 1, 'computing': 1, 'programming': 1, 'abstract': 1, 'functional': 1, 'cluster': 1, 'Generators': 1, 'Which': 1, 'Structures': 1, 'speculative': 1, 'machine': 1, 'lexically': 1, 'BaLinda': 1, 'Races': 1, 'Active': 1, 'SilkRoad': 1, 'Nondeterminism': 1, 'sequential': 1, 'Lisp': 1, 'processing': 1, 'Transform': 1, 'RCdag': 1, 'scoped': 1, 'parallel': 1, 'Control': 1, 'Objects': 1, 'LISP': 1, 'Random': 1, 'ControlFlow': 1, 'Number': 1, 'Detection': 1, 'Walsh': 1, 'Atomic': 1, 'consistency': 1, 'mixed': 2, 'design': 1, 'model': 1, 'paradigm': 1}
+Stefano Lonardi 	 {'Theory': 1, 'Practice': 1, 'Some': 1, 'Greedy': 1, 'Textual': 1, 'Substitution': 1, 'OffLine': 1}
+Derek Thompson 	 {'Poster': 1, 'Infrastructure': 1, 'Local': 1, 'National': 1, 'Citizens': 1, 'Libraries': 1, 'via': 1, 'Connecting': 1, 'Spatial': 1, 'Data': 1}
+Brian W. Kernighan 	 {'Algorithm': 1, 'Tree': 1, 'Remarks': 1, 'Spanning': 1, '422': 1, 'Minimal': 1}
+Hoi M. Leung 	 {'Functions': 1, 'Memoryless': 1, 'Distortion': 1, 'Sources': 1, 'Rate': 1, 'Criterion': 1, 'MagnitudeError': 1}
+H. Sherman 	 {'quasitopological': 1, 'patterns': 1, 'line': 1, 'method': 1, 'recognition': 1}
+J. Samitier 	 {'Monitoring': 1, 'Temperature': 1, 'Automotive': 1, 'Applications': 1, 'OnLine': 1, 'Sensor': 1, 'Smart': 1}
+Donald J. Welch 	 {'Web': 1, 'Multimedia': 1, 'Indexing': 1}
+Iliyana Simeonova 	 {'IMM': 1, 'Specifics': 1, 'Design': 1, 'About': 1, 'Algorithm': 1}
+Michael Rueher 	 {'processes': 1, 'objects': 1, 'generated': 1, 'Capturing': 1, 'software': 1}
+Eric Stahlberg 	 {'MultiClient': 1, 'Multiple': 1, 'Sequence': 1, 'Environments': 1, 'Analysis': 1, 'Improving': 1, 'Performance': 1, 'Alignment': 1}
+Z. Erlich 	 {'Languages': 1, 'Language': 1, 'Level': 1, 'Pointers': 1, 'Abstractions': 1, 'Proposals': 1, 'High': 1, 'Data': 1}
+Masayuki Nakazawa 	 {'Dialogue': 1, 'Based': 1, 'Dynamical': 1, 'Agent': 1, 'Multimodal': 1, 'Interface': 1, 'Model': 1}
+Sergey V. Orekhov 	 {'Mining': 1, 'Based': 1, 'State': 1, 'Enterprise': 1, 'Financial': 1, 'Estimation': 1, 'Data': 1}
+Christoph Saas 	 {'Resonant': 1, 'Capacitances': 1, 'Dominant': 1, 'Charging': 1, 'Multistage': 1}
+D. M. Deighton 	 {'Operations': 1, 'Computers': 1, 'Research': 1}
+Heinz Krüger 	 {'Visualizing': 1, 'Field': 1, 'Nonlinear': 1, 'Vector': 1, 'Topology': 1}
+Steen Rasmussen 	 {'SelfAssembly': 1, 'Simulating': 1, 'Problems': 1, 'Life': 1, 'Artificial': 1, 'Automata': 1, 'Cellular': 1, 'Molecular': 1, 'Open': 1}
+Mary Gifaldi 	 {'Improved': 1, 'Power': 1, 'Embedded': 1, 'Queue': 1, 'Microprocessors': 1, '\xc2\xb5m': 1, 'Adaptive': 1, 'Issue': 1, 'LowVoltage': 1, 'CMOS': 1}
+Christopher York 	 {'Tool': 1, 'Base': 1, 'Knowledge': 1, 'Discovery': 1}
+David Kurlander 	 {'Panel': 1, 'Multiple': 1, 'Applications': 1, 'Constraint': 1, 'Programming': 1, 'Interfaces': 1, 'Commercial': 1, 'Snapshots': 1, 'How': 1, 'Much': 1, 'Compelling': 1, 'User': 1, 'Session': 1, 'Constraints': 1, 'Intelligent': 1, 'Inferring': 1}
+Zorana Ristovic 	 {'Extended': 1, 'Retlated': 1, 'Abstract': 1, 'Proving': 1, 'Tableaux': 1, 'Modal': 1, 'Theorem': 1, 'Method': 1}
+Paolo Giulio Franciosa 	 {'Directed': 1, 'Paths': 1, 'Search': 1, 'Novel': 1, 'BreadthFirst': 1, 'Problems': 1, 'Results': 1, 'Decremental': 1, 'Hypergraphs': 1, 'Digraphs': 1, 'Algorithmic': 1, 'SemiDynamic': 1, 'Approach': 1, 'Shortest': 1}
+Aviv Bergman 	 {'Selection': 1, 'Natural': 1, 'Market': 1, 'Choice': 1}
+Chun-Fei Hsu 	 {'control': 1, 'via': 1, 'motortoggle': 1, 'technique': 1, 'slidingmode': 1, 'servomechanism': 1, 'Selforganizing': 1, 'fuzzy': 1}
+Bruce H. Krogh 	 {'Abstraction': 1, 'Based': 1, 'Hybrid': 1, 'Refinement': 1, 'Systems': 1, 'CounterexampleGuided': 1, 'Verification': 1}
+Stavros S. Cosmadakis 	 {'Recursive': 1, 'Restricted': 1, 'Few': 1, 'Approach': 1, 'Problem': 1, 'Extended': 1, 'Expressiveness': 1, 'Visits': 1, 'Dependencies': 1, 'Graph': 1, 'Cities': 1, 'Database': 1, 'Many': 1, 'Theories': 1, 'Equational': 1, 'Queries': 1, 'The': 1, 'Constraints': 1, 'Inclusion': 1, 'Theoretic': 1, 'Abstract': 1, 'Functional': 1, 'Traveling': 1, 'Salesman': 1}
+Jon Brunvoll 	 {'hydrocarbons': 1, 'Hydrocarbons': 1, 'Kekule': 1, 'Polyhex': 1, 'benzenoid': 1, 'number': 1, 'Enumeration': 1, 'benzenoids': 1, '110': 1, 'normal': 1, 'Distribution': 1, 'structures': 1}
+Hannes Federrath 	 {'Web': 1, 'System': 1, 'MIXes': 1, 'Access': 1, 'Anonymous': 1, 'Internet': 1, 'Unobservable': 1}
+Igor Timofeev 	 {'responses': 1, 'study': 1, 'thalamic': 1, 'components': 1, 'modeling': 1, 'Cortical': 1, 'augmenting': 1}
+Dimitris Achlioptas 	 {'Random': 1, 'degree': 1, 'Almost': 1, 'myopic': 1, 'average': 1, 'random': 1, '3SAT': 1, 'graphs': 1, 'Hypergraphs': 1, 'algorithms': 1, '3colorable': 1, 'Optimal': 1, 'Twocoloring': 1}
+Fazel Naghdy 	 {'Seismically': 1, 'Buildings': 1, 'Nonlinear': 1, 'Aplication': 1, 'Controller': 1, 'Fuzzy': 1, 'Excited': 1}

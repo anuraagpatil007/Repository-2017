@@ -1,0 +1,52 @@
+fawn 	 {'poems': 2, 'tragedies': 4, 'histories': 5, 'comedies': 3}
+heartpoor 	 {'poems': 1}
+HURTLE 	 {'glossary': 1}
+mustachio 	 {'histories': 1, 'comedies': 1}
+Debts 	 {'tragedies': 1}
+Florentius 	 {'comedies': 1}
+chamberdoors 	 {'histories': 1}
+THICKPLEACHED 	 {'glossary': 1}
+chameleons 	 {'tragedies': 1}
+spiders 	 {'tragedies': 2, 'histories': 2, 'comedies': 2}
+hanging 	 {'glossary': 4, 'poems': 3, 'tragedies': 7, 'comedies': 17, 'histories': 6}
+offendeth 	 {'tragedies': 1}
+beadsmen 	 {'histories': 1}
+gad 	 {'glossary': 1, 'tragedies': 2}
+DISAPPOINTED 	 {'glossary': 1}
+scold 	 {'glossary': 1, 'tragedies': 1, 'histories': 3, 'comedies': 4}
+nunnery 	 {'tragedies': 5, 'comedies': 1}
+opener 	 {'histories': 1}
+mutinies 	 {'tragedies': 2, 'histories': 2}
+godsthis 	 {'tragedies': 1}
+Retreat 	 {'tragedies': 2, 'histories': 6}
+howling 	 {'poems': 2, 'tragedies': 2, 'comedies': 8}
+slothful 	 {'histories': 1}
+Famed 	 {'tragedies': 1}
+fullgorged 	 {'comedies': 1}
+Gloster 	 {'histories': 1}
+showt 	 {'comedies': 1}
+appropriation 	 {'comedies': 1}
+bringing 	 {'tragedies': 4, 'histories': 7, 'comedies': 8}
+paceLook 	 {'tragedies': 1}
+Mooncalf 	 {'comedies': 1}
+redeemst 	 {'tragedies': 1}
+wooden 	 {'glossary': 1, 'tragedies': 3, 'histories': 4, 'comedies': 2}
+magnifiest 	 {'histories': 1}
+Sack 	 {'histories': 2}
+broiled 	 {'tragedies': 1}
+woods 	 {'poems': 1, 'tragedies': 9, 'histories': 2, 'comedies': 2}
+selfreproving 	 {'tragedies': 1}
+sooty 	 {'tragedies': 1}
+pizzle 	 {'histories': 1}
+swearings 	 {'comedies': 2}
+undeaf 	 {'histories': 1}
+Bassanio 	 {'comedies': 35}
+sustaining 	 {'poems': 2, 'tragedies': 1, 'comedies': 1}
+consenting 	 {'comedies': 3}
+horseshoe 	 {'comedies': 1}
+TWIRE 	 {'glossary': 1}
+maythat 	 {'histories': 1}
+backthats 	 {'tragedies': 1}
+errors 	 {'poems': 6, 'tragedies': 3, 'comedies': 3}
+puppetshow 	 {'glossary': 1}
+succumb 	 {'glossary': 1}
